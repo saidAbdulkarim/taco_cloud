@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: taco_cloud
+  annotations:
+    github.com/project-slug: saidAbdulkarim/taco_cloud
+spec:
+  type: other
+  lifecycle: unknown
+  owner: said
